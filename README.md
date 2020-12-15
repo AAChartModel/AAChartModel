@@ -17,12 +17,27 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aachartmodel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-###  Today is a better day 👋
+
+
+
+
+两句三年得,
+
+一吟双泪流.
+
+知音如不赏,
+
+归卧故山秋.
+
+
+
 
 
 ## AACharts Family
 
 ### Normal Versions
+
+Normal Version AACharts are series of elegant modern declarative data visualization chart frameworks for iOS, iPadOS and macOS. Extremely powerful, support line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.
 
 Language | Project Name | Target Platform | Source Code Link |
 ------------ | ------------- | ------------- | ------------- |
@@ -33,7 +48,7 @@ Java | AAChartCore | Android | https://github.com/AAChartModel/AAChartCore |
 
 ### Pro Versions
 
-Pro Versions are more powerful data visualization frameworks that support more types beautiful chart like bellcurve, bullet, columnpyramid, cylinder, dependencywheel, heatmap, histogram, networkgraph, organization, packedbubble, pareto, sankey, series, solidgauge, streamgraph, sunburst, tilemap, timeline, treemap, variablepie, variwide, vector, venn, windbarb, wordcloud, xrange charts and so on.
+Pro Version AACharts are more powerful data visualization frameworks that support more types beautiful chart like bellcurve, bullet, columnpyramid, cylinder, dependencywheel, heatmap, histogram, networkgraph, organization, packedbubble, pareto, sankey, series, solidgauge, streamgraph, sunburst, tilemap, timeline, treemap, variablepie, variwide, vector, venn, windbarb, wordcloud, xrange charts and so on.
 
 
 Language | Project Name | Target Platform | Source Code Link |
