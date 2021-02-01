@@ -1,62 +1,17 @@
+# JetBrains2021 年开发人员生态系统调查
 
-<!--
-**AAChartModel/AAChartModel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 欢迎参加第五次年度开发者生态系统调查，随我们一起探索软件开发行业现状。 调查大约需要 30 分钟完成。您可以随时保存进度，以便以后返回到调查中停留的位置。
 
-Here are some ideas to get you started:
+##### 每位完成调查并做出有意义回答的参与者都有机会赢得自己心仪的奖品：MacBook Pro 、Dell XPS 17 、Xbox Series X 或 PlayStation 5 、300 美元的 Amazon 礼品卡或 JetBrains All Products Pack 。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 和往年一样，我们将公布调查结果和有趣的发现。此外，您还可以选择获取个性化信息图，清楚地展现您与其他开发者的比较。
 
+##### 您可以使用调查末尾的链接邀请朋友和同事参加调查。我们将为推荐最多的人提供奖励。
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aachartmodel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+##### 感谢您抽出宝贵的时间参加我们的开发者生态系统调查！
+
+##### 大家有空可以去填一下，花落谁家, 谁知道呢, 说不定就有最新版 Mac 免费送货上门呢😝😝😝
+
+### 调查链接地址: https://surveys.jetbrains.com/s3/developer-ecosystem-survey-2021-sh?pcode=550391209777444608
 
 
-
-
-
-两句三年得,
-
-一吟双泪流.
-
-知音如不赏,
-
-归卧故山秋.
-
-
-致力于茴香豆的四种写法
-
-
-
-
-
-## 👨‍👩‍👦‍👦👨‍👩‍👦‍👦👨‍👩‍👦‍👦AACharts Family
-
-### 👴👴👴Normal Versions
-
-Normal Version AACharts are series of elegant modern declarative data visualization chart frameworks for iOS, iPadOS and macOS. Extremely powerful, support line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.
-
-Language | Project Name | Target Platform | Source Code Link |
------------- | ------------- | ------------- | ------------- |
-Swift | AAInfographics |  iOS |https://github.com/AAChartModel/AAChartKit-Swift |
-Objective C | AAChartKit | iOS | https://github.com/AAChartModel/AAChartKit |
-Kotlin | AAInfographics | Android | https://github.com/AAChartModel/AAChartCore-Kotlin |
-Java | AAChartCore | Android | https://github.com/AAChartModel/AAChartCore |
-
-### 👑👑👑Pro Versions
-
-Pro Version AACharts are more powerful data visualization frameworks that support more types beautiful chart like bellcurve, bullet, columnpyramid, cylinder, dependencywheel, heatmap, histogram, networkgraph, organization, packedbubble, pareto, sankey, series, solidgauge, streamgraph, sunburst, tilemap, timeline, treemap, variablepie, variwide, vector, venn, windbarb, wordcloud, xrange charts and so on.
-
-
-Language | Project Name | Target Platform | Source Code Link |
------------- | ------------- | ------------- | ------------- |
-Swift | AAInfographics-Pro |  iOS |https://github.com/AAChartModel/AAChartKit-Swift-Pro |
-Objective C | AAChartKit-Pro | iOS | https://github.com/AAChartModel/AAChartKit-Pro |
-Kotlin | AAInfographics-Pro | Android | Coming Soon... |
-Java | AAChartCore-Pro | Android | Coming Soon... |
