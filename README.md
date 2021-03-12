@@ -15,21 +15,17 @@ Here are some ideas to get you started:
 -->
 
 
-两句三年得,
+两句三年得, 一吟双泪流.
 
-一吟双泪流.
-
-知音如不赏,
-
-归卧故山秋.
+知音如不赏, 归卧故山秋.
 
 
-致力于茴香豆的四种写法
+致力于茴香豆的四种写法...
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aachartmodel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAChartModel&layout=compact" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAChartModel&layout=compact" /><br/>
 
 
 
