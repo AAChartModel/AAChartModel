@@ -22,16 +22,12 @@ Here are some ideas to get you started:
 
 一直致力于茴香豆的四种写法......
 
+<div>
+<img width="58% src="https://github-readme-stats.vercel.app/api?username=aachartmodel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aachartmodel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAChartModel&layout=compact" /><br/>
-
-
-
-
-
-
+<img width="38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAChartModel&layout=compact" />
+                                                                                                                
+</div>
 
 
 
