@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 知音如不赏, 归卧故山秋.
 
 
-致力于茴香豆的四种写法...
+一直致力于茴香豆的四种写法......
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aachartmodel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
