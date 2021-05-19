@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 👴👴👴Normal Versions
 
-Normal Version AACharts are series of elegant modern declarative data visualization chart frameworks for iOS, iPadOS and macOS. Extremely powerful, support line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.
+Normal Version AACharts are series of elegant modern declarative data visualization chart frameworks for iOS, iPadOS, macOS and Android. Extremely powerful, support line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.
 
 Language | Project Name | Target Platform | Source Code Link |
 ------------ | ------------- | ------------- | ------------- |
