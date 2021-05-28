@@ -38,8 +38,8 @@ Normal Version AACharts are series of elegant modern declarative data visualizat
 
 Language | Project Name | Target Platform | Source Code Link |
 ------------ | ------------- | ------------- | ------------- |
-Swift | AAInfographics |  iOS |https://github.com/AAChartModel/AAChartKit-Swift |
-Objective C | AAChartKit | iOS | https://github.com/AAChartModel/AAChartKit |
+Swift | AAInfographics |  iOS/iPadOS/macOS |https://github.com/AAChartModel/AAChartKit-Swift |
+Objective C | AAChartKit | iOS/iPadOS/macOS | https://github.com/AAChartModel/AAChartKit |
 Kotlin | AAInfographics | Android | https://github.com/AAChartModel/AAChartCore-Kotlin |
 Java | AAChartCore | Android | https://github.com/AAChartModel/AAChartCore |
 
@@ -50,7 +50,7 @@ Pro Version AACharts are more powerful data visualization frameworks that suppor
 
 Language | Project Name | Target Platform | Source Code Link |
 ------------ | ------------- | ------------- | ------------- |
-Swift | AAInfographics-Pro |  iOS |https://github.com/AAChartModel/AAChartKit-Swift-Pro |
-Objective C | AAChartKit-Pro | iOS | https://github.com/AAChartModel/AAChartKit-Pro |
+Swift | AAInfographics-Pro |  iOS/iPadOS/macOS |https://github.com/AAChartModel/AAChartKit-Swift-Pro |
+Objective C | AAChartKit-Pro | iOS/iPadOS/macOS | https://github.com/AAChartModel/AAChartKit-Pro |
 Kotlin | AAInfographics-Pro | Android | Coming Soon... |
 Java | AAChartCore-Pro | Android | Coming Soon... |
