@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 知音如不赏, 归卧故山秋.
 
 
-一直致力于茴香豆的四种写法, 将来当掌柜的要用......
+一直致力于茴香豆的四种写法......
 
 
 <div>
