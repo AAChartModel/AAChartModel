@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AAChartModel&layout=compact&theme=radical' width="35%" height="100%">
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AAChartModel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 👨‍👩‍👦‍👦👨‍👩‍👦‍👦👨‍👩‍👦‍👦AACharts Family
