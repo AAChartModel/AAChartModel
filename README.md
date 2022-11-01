@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AAChartModel/count.svg" />
+</p>
+
 两句三年得, 一吟双泪流.
 
 知音如不赏, 归卧故山秋.
@@ -56,3 +61,5 @@ Swift | AAInfographics-Pro |  iOS/iPadOS/macOS |https://github.com/AAChartModel/
 Objective C | AAChartKit-Pro | iOS/iPadOS/macOS | https://github.com/AAChartModel/AAChartKit-Pro |
 Kotlin | AAInfographics-Pro | Android | Coming Soon... |
 Java | AAChartCore-Pro | Android | Coming Soon... |
+
+
