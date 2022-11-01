@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AAChartModel/count.svg" />
@@ -25,8 +24,7 @@ Here are some ideas to get you started:
 知音如不赏, 归卧故山秋.
 
 
-一直致力于茴香豆的四种写法......
-
+ ![](https://visitor-badge.glitch.me/badge?page_id=AAChartModel.visitor-badge)  一直致力于茴香豆的四种写法...... 
 
 <div>
 <img src='https://github-readme-stats.vercel.app/api?username=aachartmodel&theme=radical' width="45%" height="100%">
